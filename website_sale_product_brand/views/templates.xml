@@ -73,7 +73,7 @@
         >
             <attribute
                 name="t-if"
-            >attributes or all_tags or selected_brand_ids</attribute>
+            >attributes or all_tags or selected_brand_ids or brands</attribute>
         </xpath>
     </template>
     <template id="search_brands" name="Search Box" inherit_id="website_sale.search">
